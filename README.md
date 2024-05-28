@@ -15,3 +15,5 @@ The BipedalWalker environment introduces a significantly more intricate challeng
 ### Custom Grid World Environment
 In a 5x5 grid-based virtual environment inspired by "Courage the Cowardly Dog," the agent, embodying Courage, navigates to find an exit from a cave, symbolizing game completion. Four potential actions—moving up, down, left, or right—are available, facilitating comprehensive exploration. Encounters with obstacles like ghosts, zombies, and the grim reaper heighten complexity. To counterbalance challenges, strategic rewards such as torchlights, ghost-repelling pills, fire torches, and cloaks are placed within the grid, enhancing gameplay depth. The primary objective is to guide Courage to the exit, maximizing reward accumulation while efficiently navigating obstacles. This objective fosters adaptive learning through trial and error, with each action contributing to the agent's evolving strategy to optimize its path and balance risk with reward.
 
+![Custom Grid World Environment](/images/Gridworld_env.png)
+
